@@ -20,7 +20,7 @@ Public Class AltaModificacion
                     reader.Read()
 
                     tbNombre.Text = reader("nombre_Persona").ToString
-                    tbNacimiento.Text = reader("nacimiento_Persona").ToString
+                    tbNacimiento.Text = reader("nacimiento_Persona")
                     tbEdad.Text = reader("edad_Persona").ToString
 
 
