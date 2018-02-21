@@ -8,3 +8,12 @@ C:\Users\loren\source\repos\TestTecnico\TestTecnico\Negocio\obj\Debug\Negocio.dl
 C:\Users\loren\source\repos\TestTecnico\TestTecnico\Negocio\obj\Debug\Negocio.xml
 C:\Users\loren\source\repos\TestTecnico\TestTecnico\Negocio\obj\Debug\Negocio.pdb
 C:\Users\loren\source\repos\TestTecnico\TestTecnico\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\Negocio\bin\Debug\Negocio.dll
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\Negocio\bin\Debug\Negocio.pdb
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\Negocio\bin\Debug\Negocio.xml
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\Negocio\obj\Debug\Negocio.vbproj.CoreCompileInputs.cache
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\Negocio\obj\Debug\Negocio.dll
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\Negocio\obj\Debug\Negocio.xml
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\Negocio\obj\Debug\Negocio.pdb

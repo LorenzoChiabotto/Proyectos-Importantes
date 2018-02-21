@@ -10,3 +10,14 @@ C:\Users\loren\source\repos\TestTecnico\TestTecnico\WindowsForms\obj\Debug\Windo
 C:\Users\loren\source\repos\TestTecnico\TestTecnico\WindowsForms\obj\Debug\WindowsForms.xml
 C:\Users\loren\source\repos\TestTecnico\TestTecnico\WindowsForms\obj\Debug\WindowsForms.pdb
 C:\Users\loren\source\repos\TestTecnico\TestTecnico\WindowsForms\obj\Debug\WindowsForms.vbprojResolveAssemblyReference.cache
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\bin\Debug\WindowsForms.xml
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\obj\Debug\WindowsForms.Resources.resources
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\obj\Debug\WindowsForms.vbproj.GenerateResource.Cache
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\obj\Debug\WindowsForms.vbproj.CoreCompileInputs.cache
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\obj\Debug\WindowsForms.xml
+C:\Users\loren\Documents\GitHub\Proyectos-Importantes\TestTecnico\WindowsForms\obj\Debug\WindowsForms.pdb
